@@ -8,6 +8,6 @@ Dependencies:
 - numpy
 - matplotlib
 
-[here]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/cahn_hilliard.ipynb
+[here]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
 
